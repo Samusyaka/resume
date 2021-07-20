@@ -1,18 +1,18 @@
 **Do you have any questions about GraphQL, TypeScript, or React?**
 
-I'm happy to assist you via Remotehour. Feel free to call me if I'm online → https://remotehour.com/kay/quick
+I'm happy to assist you via Remotehour. Feel free to call me if I'm online → \
 
 [![CircleCI](https://circleci.com/gh/acro5piano/resume/tree/master.svg?style=svg)](https://circleci.com/gh/acro5piano/resume/tree/master)
 
 # Resume
 
-Resume of Kazuya Gosho, built with Webpack + Pug + Postcss.
+Resume of Ssamus, built with Webpack + Pug + Postcss.
 
 We can create static website really easilly with Netlify. Thanks!!
 
-https://cranky-heisenberg-039d2a.netlify.com/
 
-![screenshot](https://github.com/acro5piano/resume/blob/master/screenshot.png)
+
+![screenshot]
 
 Why I created this repository: https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127
 
